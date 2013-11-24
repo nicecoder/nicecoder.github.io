@@ -1,0 +1,20 @@
+---
+layout: default
+title: 热站
+keywords: 推荐网站,it网站排行榜,it网站导航
+---
+<h1>推荐站点列表</h1>
+<div class="sitelist">
+{% for website in site.data.websites %}
+<p>
+    <a href="javascript:gosite('{{website.url}}')" title="{{website.url}}">{{ website.name }}</a><br/>
+    {{website.desc}}<br/>
+    标签:
+    {% for tg in website.tags %}
+        {% if tg != "初始化抓取" and tg != "知名"%}
+            {{tg}}
+        {% endif %}
+    {% endfor %}
+</p>
+{% endfor %}
+</div>

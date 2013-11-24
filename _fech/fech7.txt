@@ -1,0 +1,330 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js">
+<head>
+<meta charset="utf-8">
+<title>技术编程网站排行榜top70</title>
+<meta name="keywords" content="排名前70的技术编程网站,技术编程网站排行榜">
+<meta name="description" content="最权威的技术编程网站排行榜，聚合了众多优质技术编程网站，并根据网站的综合值进行排名，找最好的技术编程网站就来技术编程网站排行榜。">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="wih3h=device-wih3h,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+<link rel="stylesheet" href="http://my.chinaz.com/max-templates/passport/styles/topbar.css" />
+<link rel="stylesheet" href="http://my.chinaz.com/max-templates/passport/styles/dialog.css" />
+    <link href="/skin/default/css/list/list.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/css/style.css" />
+    <script src="/js/jq/jquery-1.3.min.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/skin/default/js/typezhedie.js"></script>
+</head>
+<body>
+  
+ <script src="/js/chinaz.js" type="text/javascript"></script>
+ <script src="/js/modernizr-1.7.min.js" type="text/javascript"></script>
+    <div class="toolbar">
+        <div class="clearfix toolbar-inner">
+            <div class="quicklink">
+               <ul id="chinaz_website_links" class="accesslink">
+            <li><a href="http://www.chinaz.com" target="_blank"><span>站长之家</span></a></li>
+            <li onmouseover="chinazTopBarMenu.create(this,'chinaz_website_menu_1');" onmouseout="chinazTopBarMenu.clear(this);">
+                <a class="item-expand" href="http://bbs.chinaz.com" target="_blank"><span>站长论坛</span></a>
+            </li>
+            <li onmouseover="chinazTopBarMenu.create(this,'chinaz_website_menu_2');" onmouseout="chinazTopBarMenu.clear(this);">
+                <a class="item-expand" href="http://tool.chinaz.com" target="_blank"><span>站长工具</span></a>
+            </li>
+            <li><a href="http://jy.chinaz.com" target="_blank"><span>站长交易</span></a></li>
+            <li><a href="http://down.chinaz.com" target="_blank"><span>源码下载</span></a></li>
+            <li onmouseover="chinazTopBarMenu.create(this,'chinaz_website_menu_3');" onmouseout="chinazTopBarMenu.clear(this);">
+                    <a class="item-expand" href="http://sc.chinaz.com" target="_blank"><span>站长素材</span></a>
+                </li>
+            <li><a href="http://www.cnzz.com" target="_blank"><span>免费统计</span></a></li>
+            <li><a href="http://www.313.com" target="_blank"><span>建站大师</span></a></li>
+            <li><a href="http://www.idc123.com" target="_blank"><span>主机之家</span></a></li>
+        </ul>
+
+                 <div id="chinaz_website_menu_1" class="topbar-hiddencontents">
+            <a href="http://bbs.chinaz.com/Club/list-1.html" target="_blank">站长俱乐部</a>
+            <a href="http://bbs.chinaz.com/Res/list-1.html" target="_blank">网站建设资源</a>
+            <a href="http://bbs.chinaz.com/Shuiba/list-1.html" target="_blank">站长水吧</a>
+        </div>
+
+                 <div id="chinaz_website_menu_2" class="topbar-hiddencontents">
+            <a href="http://alexa.chinaz.com" target="_blank">ALEXA排名查询</a>
+            <a href="http://mytool.chinaz.com/baidusort.aspx" target="_blank">百度权重查询</a>
+            <a href="http://seo.chinaz.com" target="_blank">SEO概况查询</a>
+            <a href="http://link.chinaz.com" target="_blank">友情链接查询</a>
+            <a href="http://pr.chinaz.com" target="_blank">Google PR查询</a>
+            <a href="http://whois.chinaz.com" target="_blank">Whois信息查询</a>	   
+			<a href="http://tool.chinaz.com/beian.aspx" target="_blank">域名备案查询</a>
+        </div>
+
+              <div id="chinaz_website_menu_3" class="topbar-hiddencontents">
+                <a href="http://font.chinaz.com/" target="_blank">字体下载</a>
+                <a href="http://desk.chinaz.com/" target="_blank">高清壁纸</a>
+                <a href="http://desk.chinaz.com/shoujibizhi/" target="_blank">手机壁纸</a>
+                <a href="http://sc.chinaz.com/tupian/" target="_blank">高清图片</a>
+                <a href="http://sc.chinaz.com/shiliang/" target="_blank">矢量素材</a>
+                <a href="http://sc.chinaz.com/ppt/" target="_blank">PPT模板</a>
+                <a href="http://sc.chinaz.com/psd/" target="_blank">PSD素材</a>
+                
+                 
+
+
+          </div>
+            </div>
+            <div class="userbar" id="chinaz_topbar"></div>
+        </div>
+    </div>
+    <header>
+        <h1 class="logo"><a rel="home" href="http://top.chinaz.com">top.chinaz.com</a></h1>
+        <div class="bannerad">
+        <div class="TopAdscontainer" id="idContainer" style="z-index:-1;"><table id="idSlider" border="0" cellpadding="0" cellspacing="0"><tr><td><a href="http://shop100596087.taobao.alimama.com/ " target="_blank"><img border="0"  src="/temp_upfile/ads/635176241762672879.jpg" alt="中文网站排行榜"  width="468" height="60"/></a></td></tr></table></div>
+        </div>
+        <div class="linkAds">
+     <a href="http://mytool.chinaz.com/baidusort.aspx" target="_blank"  class="ablock">最新最快最权威的百度权重查询</a>
+     <a href="http://www.ciku5.com" target="_blank" title="词库网"  class="red">词库网</a>
+      <a href="http://www.ciku5.com/bs" target="_blank"  title="行业词库" class="red">行业词库</a>
+      <a href="http://www.ciku5.com" target="_blank"  title="长尾词库" class="red">长尾词库</a>
+      <a href="http://www.ciku5.com" target="_blank"  title="网站词库" class="red">网站词库</a><br />
+      <a href="http://www.chaoji.com" target="_blank">超级监控</a>
+      <a href="http://www.chaoji.com" target="_blank">网站监控</a>
+      <a href="http://www.chaoji.com" target="_blank">服务器监控</a>
+      <a href="http://www.chaoji.com" target="_blank">SEO监控</a>
+        </div>
+    </header>
+    <nav>
+        <ul id="menueList" >
+           <li class="search"><a href="#" onclick="SearchSite();" title="查询"></a><input class="text  searchInit"  onblur="leaveo(this);" onfocus="ShowTextNone(this);" id="txt_top_search" type="text" value="输入查找关键字"  onkeydown="return enterIn(event);" /></li>
+            <li class="commonLi"><a href="/" id="menue0">排行首页</a></li>
+            <li><a href="/list.aspx" id="menue1">网站排行</a></li>
+            <li><a href="/list.aspx?ar=true" id="menue5">地区分类</a></li>
+            <li><a href="/unionList.aspx" id="menue2"  class="long">广告联盟排行</a></li>
+            <li><a href="http://www.idc123.com" target="_blank" id="menue3">IDC排行</a></li>
+            <li><a href="/top500" id="menue4">TOP500</a></li>
+            <li><a href="/remark.aspx" id="menue5">常见问题</a></li>
+        </ul>
+    </nav>
+ 
+ 
+
+
+    <div class="main" role="main">
+      <div class="daohang"><div  class="topSearchArea"><span>所属地区：</span>
+          <ul id="ulplace">
+          <li onmousemove="IsShowArea('dlProv','block');" onmouseout="IsShowArea('dlProv','none');"  style="margin-right:8px;">
+          <span lang='$provCode' style=" text-decoration:none;" id="ddProvD" >全部</span>
+          <dl  id="dlProv">
+          <dd><a id="area" href="javascript:ChageCity();" title="全部">全部</a></dd>
+          <dd><a id="area1010100" href="javascript:ChageCity('1010100');" title="北京">北京</a></dd>
+          <dd><a id="area1010200" href="javascript:ChageCity('1010200');" title="上海">上海</a></dd>
+          <dd><a id="area1010300" href="javascript:ChageCity('1010300');" title="天津">天津</a></dd>
+          <dd><a id="area1010400"  href="javascript:ChageCity('1010400');" title="重庆">重庆</a></dd>
+          <dd><a id="area10105"  href="javascript:ChageCity('10105');" title="黑龙江">黑龙江</a></dd>
+          <dd><a id="area10106"  href="javascript:ChageCity('10106');" title="吉林">吉林</a></dd>
+          <dd><a id="area10107"  href="javascript:ChageCity('10107');" title="辽宁">辽宁</a></dd>
+          <dd><a id="area10108"  href="javascript:ChageCity('10108');" title="内蒙古">内蒙古</a></dd>
+          <dd><a id="area10109"  href="javascript:ChageCity('10109');" title="河北">河北</a></dd>
+          <dd><a id="area10110"  href="javascript:ChageCity('10110');" title="山西">山西</a></dd>
+          <dd><a id="area10111"  href="javascript:ChageCity('10111');" title="陕西">陕西</a></dd>
+          <dd><a id="area10112"  href="javascript:ChageCity('10112');" title="山东">山东</a></dd>
+          <dd><a id="area10113"  href="javascript:ChageCity('10113');" title="新疆">新疆</a></dd>
+          <dd><a id="area10114"  href="javascript:ChageCity('10114');" title="西藏">西藏</a></dd>
+          <dd><a id="area10115"  href="javascript:ChageCity('10115');" title="青海">青海</a></dd>
+          <dd><a id="area10116"  href="javascript:ChageCity('10116');" title="甘肃">甘肃</a></dd>
+          <dd><a id="area10117"  href="javascript:ChageCity('10117');" title="宁夏">宁夏</a></dd>
+          <dd><a id="area10118"  href="javascript:ChageCity('10118');" title="河南">河南</a></dd>
+          <dd><a id="area10119"  href="javascript:ChageCity('10119');" title="江苏">江苏</a></dd>
+          <dd><a id="area10120"  href="javascript:ChageCity('10120');" title="湖北">湖北</a></dd>
+          <dd><a id="area10121"  href="javascript:ChageCity('10121');" title="浙江">浙江</a></dd>
+          <dd><a id="area10122"  href="javascript:ChageCity('10122');" title="安徽">安徽</a></dd>
+          <dd><a id="area10123"  href="javascript:ChageCity('10123');" title="福建">福建</a></dd>
+          <dd><a id="area10124"  href="javascript:ChageCity('10124');" title="江西">江西</a></dd>
+          <dd><a id="area10125"  href="javascript:ChageCity('10125');" title="湖南">湖南</a></dd>
+          <dd><a id="area10126"  href="javascript:ChageCity('10126');" title="贵州">贵州</a></dd>
+          <dd><a id="area10127"  href="javascript:ChageCity('10127');" title="四川">四川</a></dd>
+          <dd><a id="area10128"  href="javascript:ChageCity('10128');" title="广东">广东</a></dd>
+          <dd><a id="area10129"  href="javascript:ChageCity('10129');" title="云南">云南</a></dd>
+          <dd><a id="area10130"  href="javascript:ChageCity('10130');" title="广西">广西</a></dd>
+          <dd><a id="area1013101"  href="javascript:ChageCity('1013101');" title="海南">海南</a></dd>
+          <dd><a id="area10132"  href="javascript:ChageCity('10132');" title="香港">香港</a></dd>
+          <dd><a id="area10133"  href="javascript:ChageCity('10133');" title="澳门">澳门</a></dd>
+          <dd><a id="area10134"  href="javascript:ChageCity('10134');" title="台湾">台湾</a></dd>
+          <dd><a id="areahw"  href="javascript:ChageCity('hw');"  title="海外">海外</a></dd>
+            </dl>
+            </li>
+            <li onmousemove="IsShowArea('dlcityp','block');"  onmouseout="IsShowArea('dlcityp','none');">
+            <span style=" text-decoration:none;" id="ddCityX" lang="">全部</span>
+            <dl id="dlcityp">
+            <dd><a id="city" href="javascript:ChageProv_City();">全部</a></dd>
+                        </dl>
+            </li>
+            </ul>
+       </div><a href='/' title="首页" class="home">首页</a> > <a href='/list.aspx' title="网站排行榜">网站排行榜</a> > <a href='?t=54' title="网络科技">网络科技</a>  > 技术编程网站排行榜top70<div class="clearfix"></div></div>                  <div class="clearfix cols2 section-list">
+            <div class="col-2">
+           <div class="p p-major"><div class="p-head">“<a href='?t=54' title='网络科技'>[网络科技]</a>”下的所有分类 <span style=" float:right; margin-right:15px;">2013-11-11更新 （更新周期：每周）</span></div><div class="p-body"><div class="childType" style='*margin-bottom:0px;*padding-bottom:0px;'><ul><li style='width:70px;'><a href="?t=11"  title="电脑硬件">电脑硬件</a></li><li style='width:70px;'><a href="?t=12"  title="软件下载">软件下载</a></li><li style='width:70px;'><a href="?t=13"  title="技术编程"><font color='red'>技术编程</font></a></li><li style='width:70px;'><a href="?t=26"  title="设计素材">设计素材</a></li><li style='width:70px;'><a href="?t=32"  title="域名主机">域名主机</a></li><li style='width:70px;'><a href="?t=35"  title="网络安全">网络安全</a></li><li style='width:70px;'><a href="?t=79"  title="邮件通信">邮件通信</a></li><li style='width:70px;'><a href="?t=81"  title="站长资源">站长资源</a></li><li style='width:70px;'><a href="?t=338"  title="手机数码">手机数码</a></li><li style='width:70px;'><a href="?t=352"  title="电子支付">电子支付</a></li><li style='width:70px;'><a href="?t=355"  title="广告联盟">广告联盟</a></li><li style='width:70px;'><a href="?t=358"  title="数据分析">数据分析</a></li><li style='width:70px;'><a href="?t=359"  title="电商服务">电商服务</a></li></ul><div class='clearfix'></div></div></div><div class="p-foot">.</div></div>                <div class="p p-major">
+                                    <div class="p-head">
+                         <h3 style=" width:435px;"> 技术编程网站排行榜top70 </h3>
+                                                <span class="clSpanPM">
+                        <ul class="paiming" >
+                        <li><a href="#" style="text-decoration:none;" onclick="ChagePaiType('4');"  class=" select "  title="综合统计">综合统计</a>|</li>
+                        <li><a href="#" style="text-decoration:none;" class=""  onclick="ChagePaiType('1');" title="Alexa排名">Alexa排名</a></li>
+                        <li  onmouseout="" onmousemove="">|<a href="#"   style="text-decoration:none;margin-bottom:0px;" onclick="ChagePaiType('2');" class="" title="百度权重">百度权重</a>|
+                       <dl class="baidui" id="dl_baidupaiming" style=" display:none;">
+                        <dd><a href="javascript:BaiduQZ('0');">权重 0</a></dd>
+                        <dd><a href="javascript:BaiduQZ('1');">权重 1</a></dd>
+                        <dd><a href="javascript:BaiduQZ('2');">权重 2</a></dd>
+                        <dd><a href="javascript:BaiduQZ('3');">权重 3</a></dd>
+                        <dd><a href="javascript:BaiduQZ('4');">权重 4</a></dd>
+                        <dd><a href="javascript:BaiduQZ('5');">权重 5</a></dd>
+                        <dd><a href="javascript:BaiduQZ('6');">权重 6</a></dd>
+                        <dd><a href="javascript:BaiduQZ('7');">权重 7</a></dd>
+                        <dd><a href="javascript:BaiduQZ('8');">权重 8</a></dd>
+                        <dd><a href="javascript:BaiduQZ('9');">权重 9</a></dd>
+                        <dd><a href="javascript:BaiduQZ('10');" style="border-bottom:0px; ">权重 10</a></dd>
+                         </dl>
+                        
+                        </li>
+                        <li><a href="#"   style="text-decoration:none;" onclick="ChagePaiType('3');" class="" title="PR值">PR值</a></li>
+                        
+                        </ul>
+                        </span>
+                                                                     </div>
+                    <div class="p-body">
+
+                        <div class="webItemList">
+                            <ul>
+                            <li><figure><a href="/t_13/site_www.hh010.com.html" title='鸿鹄网' target="_blank"><img src="/WebSiteimages/2012-11-26/_sbaf511ff-5df9-4ba5-a742-177c05af26fc.png" width="110" height="90" alt=""></a></figure><div class="info"><h3><a href="/t_13/site_www.hh010.com.html" title='鸿鹄网' target="_blank">鸿鹄网</a><span style='color:#666;font-site:12px;margin-left:7px; padding:0px;'>www.hh010.com</span></h3><div class="score"><span>Alexa周排名：299228</span><span>百度权重：<img src='/skin/default/css/view/baidu/s/4.gif'  style="margin-bottom:-3px; height:15px;"/></span><span>PR：<img src='/images/ranks/Rank_4.gif'  style=" height:11px;"/></span><span>反链数：92</span></div> <div class="desc"><b>网站简介：</b>鸿鹄网（www.hh010.com），中国专业的IT技术网站,主要为IT技术人员提供新闻资讯、技术文档、BBS、博客、技术圈、培训课程、人才交流等专业服务。</div></div><div class="rank"><div class="pm">61</div>得分:1917<a href="/top500?t=13"  target="_blank" title="查看榜单">查看榜单</a></div></li><li><figure><a href="/t_13/site_www.csai.cn.html" title='软件工程专家网' target="_blank"><img src="/WebSiteimages/2012-08-30/_s8181ddb4-6f8a-4e4a-bf88-01ad4a77088b.png" width="110" height="90" alt=""></a></figure><div class="info"><h3><a href="/t_13/site_www.csai.cn.html" title='软件工程专家网' target="_blank">软件工程专家网</a><span style='color:#666;font-site:12px;margin-left:7px; padding:0px;'>www.csai.cn</span></h3><div class="score"><span>Alexa周排名：896554</span><span>百度权重：<img src='/skin/default/css/view/baidu/s/2.gif'  style="margin-bottom:-3px; height:15px;"/></span><span>PR：<img src='/images/ranks/Rank_6.gif'  style=" height:11px;"/></span><span>反链数：248</span></div> <div class="desc"><b>网站简介：</b>软件工程专家网（www.csai.cn）是国内最早关注软件工程的专业网站,拥有大量的软件工程经典技术文章,软件开发案例,软件开发文档,并提供相关资料下载及论坛供广大网友进行资料和技术的交流。</div></div><div class="rank"><div class="pm">62</div>得分:1908</div></li><li><figure><a href="/t_13/site_www.w3cplus.com.html" title='W3CPlus' target="_blank"><img src="/WebSiteimages/2012-08-13/_s8b435ceb-a843-437f-a2bf-0af41a0f146c.png" width="110" height="90" alt=""></a></figure><div class="info"><h3><a href="/t_13/site_www.w3cplus.com.html" title='W3CPlus' target="_blank">W3CPlus</a><span style='color:#666;font-site:12px;margin-left:7px; padding:0px;'>www.w3cplus.com</span></h3><div class="score"><span>Alexa周排名：60975</span><span>百度权重：<img src='/skin/default/css/view/baidu/s/2.gif'  style="margin-bottom:-3px; height:15px;"/></span><span>PR：<img src='/images/ranks/Rank_4.gif'  style=" height:11px;"/></span><span>反链数：104</span></div> <div class="desc"><b>网站简介：</b></div></div><div class="rank"><div class="pm">63</div>得分:1897</div></li><li><figure><a href="/t_13/site_www.cppblog.com.html" title='C  博客 ' target="_blank"><img src="/WebSiteimages/2012-03-13/_s2490aa7d-6a7d-4761-a96f-6d437e9434e6.png" width="110" height="90" alt=""></a></figure><div class="info"><h3><a href="/t_13/site_www.cppblog.com.html" title='C  博客 ' target="_blank">C  博客 </a><span style='color:#666;font-site:12px;margin-left:7px; padding:0px;'>www.cppblog.com</span></h3><div class="score"><span>Alexa周排名：95027</span><span>百度权重：<img src='/skin/default/css/view/baidu/s/4.gif'  style="margin-bottom:-3px; height:15px;"/></span><span>PR：<img src='/images/ranks/Rank_4.gif'  style=" height:11px;"/></span><span>反链数：38</span></div> <div class="desc"><b>网站简介：</b>C  博客 - 专注于C  技术</div></div><div class="rank"><div class="pm">64</div>得分:1886</div></li><li><figure><a href="/t_13/site_code4app.com.html" title='Code4App' target="_blank"><img src="/WebSiteimages/2012-06-25/_sdf0dcad5-f14e-4db9-be87-87ced1b34254.png" width="110" height="90" alt=""></a></figure><div class="info"><h3><a href="/t_13/site_code4app.com.html" title='Code4App' target="_blank">Code4App</a><span style='color:#666;font-site:12px;margin-left:7px; padding:0px;'>code4app.com</span></h3><div class="score"><span>Alexa周排名：45990</span><span>百度权重：<img src='/skin/default/css/view/baidu/s/3.gif'  style="margin-bottom:-3px; height:15px;"/></span><span>PR：<img src='/images/ranks/Rank_3.gif'  style=" height:11px;"/></span><span>反链数：37</span></div> <div class="desc"><b>网站简介：</b>Code4App.com是一个iOS开源代码收集整理网站。致力于为移动开发程序员提供大量的开源代码，iOS代码实例搜索，iOS特效示例，iOS代码例子下载。所有的开源代码都经过我们的严格测试，并且配有效果截图。</div></div><div class="rank"><div class="pm">65</div>得分:1870</div></li><li><figure><a href="/t_13/site_segmentfault.com.html" title='SegmentFault' target="_blank"><img src="/WebSiteimages/2012-11-16/_s53c19549-353b-4c23-8c5d-528f0bc5c609.png" width="110" height="90" alt=""></a></figure><div class="info"><h3><a href="/t_13/site_segmentfault.com.html" title='SegmentFault' target="_blank">SegmentFault</a><span style='color:#666;font-site:12px;margin-left:7px; padding:0px;'>segmentfault.com</span></h3><div class="score"><span>Alexa周排名：21836</span><span>百度权重：<img src='/skin/default/css/view/baidu/s/1.gif'  style="margin-bottom:-3px; height:15px;"/></span><span>PR：<img src='/images/ranks/Rank_4.gif'  style=" height:11px;"/></span><span>反链数：13</span></div> <div class="desc"><b>网站简介：</b>SegmentFault（segmentfault.com）专业面向开发者的中文技术问答社区。</div></div><div class="rank"><div class="pm">66</div>得分:1867</div></li><li><figure><a href="/t_13/site_www.topoint.com.cn.html" title='支点网' target="_blank"><img src="/WebSiteimages/2012-08-30/_sccae7589-cf2f-4b33-bcea-084d388ffd37.png" width="110" height="90" alt=""></a></figure><div class="info"><h3><a href="/t_13/site_www.topoint.com.cn.html" title='支点网' target="_blank">支点网</a><span style='color:#666;font-site:12px;margin-left:7px; padding:0px;'>www.topoint.com.cn</span></h3><div class="score"><span>Alexa周排名：1783632</span><span>百度权重：<img src='/skin/default/css/view/baidu/s/2.gif'  style="margin-bottom:-3px; height:15px;"/></span><span>PR：<img src='/images/ranks/Rank_6.gif'  style=" height:11px;"/></span><span>反链数：139</span></div> <div class="desc"><b>网站简介：</b>支点网（www.topoint.com.cn）成立于2001年，是专注企业信息化领域服务CIO人群的专业网站，是中国企业信息化领域最专业、最知名的网站之一。2</div></div><div class="rank"><div class="pm">67</div>得分:1866</div></li><li><figure><a href="/t_13/site_www.haocodes.com.html" title='好源码网' target="_blank"><img src="/WebSiteimages/nothing.png" width="110" height="90" alt=""></a></figure><div class="info"><h3><a href="/t_13/site_www.haocodes.com.html" title='好源码网' target="_blank">好源码网</a><span style='color:#666;font-site:12px;margin-left:7px; padding:0px;'>www.haocodes.com</span></h3><div class="score"><span>Alexa周排名：44322</span><span>百度权重：<img src='/skin/default/css/view/baidu/s/1.gif'  style="margin-bottom:-3px; height:15px;"/></span><span>PR：<img src='/images/ranks/Rank_3.gif'  style=" height:11px;"/></span><span>反链数：48</span></div> <div class="desc"><b>网站简介：</b>好源码提供大量免费源码,源代码,asp源码,网站源码,源代码下载,php源码,易语言源码,网站源代码下载!</div></div><div class="rank"><div class="pm">68</div>得分:1864</div></li><li><figure><a href="/t_13/site_www.csto.com.html" title='CSTO' target="_blank"><img src="/WebSiteimages/2012-12-07/_seccdaa73-fe46-4c63-a85f-4d1249095ecc.jpg" width="110" height="90" alt=""></a></figure><div class="info"><h3><a href="/t_13/site_www.csto.com.html" title='CSTO' target="_blank">CSTO</a><span style='color:#666;font-site:12px;margin-left:7px; padding:0px;'>www.csto.com</span></h3><div class="score"><span>Alexa周排名：131148</span><span>百度权重：<img src='/skin/default/css/view/baidu/s/2.gif'  style="margin-bottom:-3px; height:15px;"/></span><span>PR：<img src='/images/ranks/Rank_5.gif'  style=" height:11px;"/></span><span>反链数：18</span></div> <div class="desc"><b>网站简介：</b>CSTO（www.csto.com）全球最大的软件外包和项目交易网，涵盖网站建设，网站制作，嵌入式系统，ios应用，安卓软件开发，UI设计等IT外包项目。</div></div><div class="rank"><div class="pm">69</div>得分:1858</div></li><li><figure><a href="/t_13/site_www.code-design.cn.html" title='编程设计网' target="_blank"><img src="/WebSiteimages/2012-07-12/_s2843cc26-6d05-42c8-ba87-ff9e763a1b79.png" width="110" height="90" alt=""></a></figure><div class="info"><h3><a href="/t_13/site_www.code-design.cn.html" title='编程设计网' target="_blank">编程设计网</a><span style='color:#666;font-site:12px;margin-left:7px; padding:0px;'>www.code-design.cn</span></h3><div class="score"><span>Alexa周排名：5082047</span><span>百度权重：<img src='/skin/default/css/view/baidu/s/0.gif'  style="margin-bottom:-3px; height:15px;"/></span><span>PR：<img src='/images/ranks/Rank_3.gif'  style=" height:11px;"/></span><span>反链数：2</span></div> <div class="desc"><b>网站简介：</b>编程设计网（www.code-design.cn）是集“web编程技术，CDR技巧，asp.net编程，javascript特效代码等”于一体的综合性网络建设技术站点，同时提供技术帮助，解决各位访客的问题。</div></div><div class="rank"><div class="pm">70</div>得分:1854</div></li>
+                            </ul>
+                            <div id='newDataList' ></div>                            <div id="divNextValue">
+                             <ul class="webItemList"><li class="divNext" id='liNext'><a href="#" title="下一页" id="linkeNextPage" onclick='return ChangeNextPageCount();' lang="&p=8&t=13">&nbsp;</a></li></ul><div class="pagination"><span class="status">当前页：<strong>7</strong>/11</span><a href="?p=6&t=13">上一页</a><a href="?p=1&t=13">1</a><span>...</span><a href="?p=4&t=13">4</a><a href="?p=5&t=13">5</a><a href="?p=6&t=13">6</a><a class="current" href="?p=7&&t=13">7</a><a href="?p=8&t=13">8</a><a href="?p=9&t=13">9</a><a href="?p=10&t=13">10</a><span>...</span><a href="?p=11&t=13">11</a><a href="?p=8&t=13">下一页</a></div>
+                             </div>
+                        </div>
+                      
+                    </div>
+                    <div class="p-foot">.</div>
+                </div>
+            </div>
+            <div class="col-1" style=" float:left;">
+                <div class="p">
+                    <a class="applybutton-l" href="/include.aspx"  title="申请收录" target="_blank">没有找到您的资料?申请收录</a>
+                </div>
+                <div class="p p-aside-l">
+                    <div class="p-head">
+                        <h3>可能感兴趣的网站</h3>
+                        <a href="#"  style=" float:right;"  title="换一批" id="likeChangeOther" >换一批</a>
+                    </div>
+                  
+                    <div class="p-body" style="height:300px;">
+        
+                        <ul class="ranklist" id="ulsjwz">
+                    <li class="no-0" ><em class="down" style='margin-right:8px;'>&darr;</em><a href="/site_www.ciku5.com.html" style=" width:180px;" title='词库网' target="_blank">词库网</a></li><li class="no-0" ><em class="up" style='margin-right:8px;'>&uarr;</em><a href="/site_www.manmankan.com.html" style=" width:180px;" title='漫漫看' target="_blank">漫漫看</a></li><li class="no-0" ><em class="up" style='margin-right:8px;'>&uarr;</em><a href="/site_www.sdcp.cn.html" style=" width:180px;" title='山东彩票' target="_blank">山东彩票</a></li><li class="no-0" ><em class="up" style='margin-right:8px;'>&uarr;</em><a href="/site_www.cqjob.com.html" style=" width:180px;" title='重庆人才网' target="_blank">重庆人才网</a></li><li class="no-0" ><em class="up" style='margin-right:8px;'>&uarr;</em><a href="/site_www.qinbei.com.html" style=" width:180px;" title='亲贝网' target="_blank">亲贝网</a></li><li class="no-0" ><em class="up" style='margin-right:8px;'>&uarr;</em><a href="/site_www.szmama.com.html" style=" width:180px;" title='深圳妈妈网' target="_blank">深圳妈妈网</a></li><li class="no-0" ><em class="down" style='margin-right:8px;'>&darr;</em><a href="/site_www.edulife.com.cn.html" style=" width:180px;" title='教育人生网' target="_blank">教育人生网</a></li><li class="no-0" ><em class="up" style='margin-right:8px;'>&uarr;</em><a href="/site_www.unsv.com.html" style=" width:180px;" title='英语学习频道' target="_blank">英语学习频道</a></li><li class="no-0" ><em class="down" style='margin-right:8px;'>&darr;</em><a href="/site_www.wangxiao.cn.html" style=" width:180px;" title='中大网校' target="_blank">中大网校</a></li><li class="no-0" ><em class="up" style='margin-right:8px;'>&uarr;</em><a href="/site_www.intozgc.com.html" style=" width:180px;" title='走进中关村' target="_blank">走进中关村</a></li>                         </ul>
+                    </div>
+                    <div class="p-foot">.</div>
+                </div>
+                
+                <div class="p p-aside-ad">
+                     <a href="http://www.chaoji.com" target="_blank"><img border="0"  src="/temp_upfile/ads/634750442702332481.gif" alt="超级监控" width="250"   height="70"/></a>                 </div>
+                                <div class="p p-aside-l">
+                    <div class="p-head">
+                        <h3>最近加入的10个网站</h3>
+                          <a href="/newAdd.aspx"  style=" float:right;"  title="更多..." target="_blank">更多>></a>
+                    </div>
+                    <div class="p-body">
+                        <ul class="ranklist">
+                         <li class="no-0" ><em>2013-11-11</em><a href="/site_www.aipintuan.com.html" title='爱拼团'>爱拼团</a></li><li class="no-0" ><em>2013-11-05</em><a href="/site_www.benshouji.com.html" title='笨手机'>笨手机</a></li><li class="no-0" ><em>2013-11-04</em><a href="/site_www.haott.com.html" title='好太太网'>好太太网</a></li><li class="no-0" ><em>2013-10-30</em><a href="/site_www.ynma.org.html" title='云南省市场学会'>云南省市场学会</a></li><li class="no-0" ><em>2013-10-30</em><a href="/site_w.cn.html" title='【w.cn】'>【w.cn】</a></li><li class="no-0" ><em>2013-10-30</em><a href="/site_www.jsj.com.cn.html" title='金色世纪商旅网'>金色世纪商旅网</a></li><li class="no-0" ><em>2013-10-30</em><a href="/site_www.leyuanol.com.html" title='乐源在线'>乐源在线</a></li><li class="no-0" ><em>2013-10-25</em><a href="/site_www.7958.com.html" title='千军万马'>千军万马</a></li><li class="no-0" ><em>2013-10-25</em><a href="/site_www.jinkaoedu.com.html" title='金考网'>金考网</a></li><li class="no-0" ><em>2013-10-24</em><a href="/site_www.5399.com.html" title='5399网页游戏'>5399网页游戏</a></li>                         </ul>
+                    </div>
+                    <div class="p-foot">.</div>
+                </div>
+                                    
+
+
+                 <div class="p p-aside-ad">
+                     <a href="http://jiongxiyou.6u.com/" target="_blank"><img border="0"  src="/temp_upfile/ads/635113131731693987.gif" alt="囧西游"  width="248" height="70"/></a>                 </div>
+                                
+                <script src="/js/ads_google.js" type="text/javascript"></script>
+                <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+            </div>
+        </div>
+    
+              <div class="links">
+                      <h3 style="  float:left;">网站分类：</h3>
+            <div class="links-site"  style=" margin-bottom:5px;">
+             <a href="list.aspx?t=48"  title="休闲娱乐">休闲娱乐</a><a href="list.aspx?t=53"  title="生活服务">生活服务</a><a href="list.aspx?t=49"  title="综合其他">综合其他</a><a href="list.aspx?t=50"  title="教育文化">教育文化</a><a href="list.aspx?t=54"  title="网络科技">网络科技</a><a href="list.aspx?t=52"  title="行业企业">行业企业</a><a href="list.aspx?t=201"  title="体育健身">体育健身</a><a href="list.aspx?t=261"  title="医疗健康">医疗健康</a><a href="list.aspx?t=273"  title="交通旅游">交通旅游</a><a href="list.aspx?t=281"  title="新闻媒体">新闻媒体</a>
+            </div>
+             <div class="clearfix"  style="margin-bottom:5px; height:5px; border-bottom:1px dotted #c8c8c8"></div>
+           
+           
+            <h3 style=" display:block; float:left;height:35px; ">地区分类：</h3>
+            <div class="links-site">
+              <a href="/list.aspx?area=1010100" target="_blank" title="北京">北京</a>
+              <a href="/list.aspx?area=1010200" target="_blank" title="上海">上海</a>
+              <a href="/list.aspx?area=1010300" target="_blank" title="天津">天津</a>
+              <a href="/list.aspx?area=1010400" target="_blank" title="重庆">重庆</a>
+              <a href="/list.aspx?area=10105" target="_blank" title="黑龙江">黑龙江</a>
+              <a href="/list.aspx?area=10106" target="_blank" title="吉林">吉林</a>
+              <a href="/list.aspx?area=10107" target="_blank" title="辽宁">辽宁</a>
+              <a href="/list.aspx?area=10108" target="_blank" title="内蒙古">内蒙古</a>
+              <a href="/list.aspx?area=10109" target="_blank" title="河北">河北</a>
+              <a href="/list.aspx?area=10110" target="_blank" title="山西">山西</a>
+              <a href="/list.aspx?area=10111" target="_blank" title="陕西">陕西</a>
+              <a href="/list.aspx?area=10112" target="_blank" title="山东">山东</a>
+              <a href="/list.aspx?area=10113" target="_blank" title="新疆">新疆</a>
+              <a href="/list.aspx?area=10114" target="_blank" title="西藏">西藏</a>
+              <a href="/list.aspx?area=10115" target="_blank" title="青海">青海</a>
+              <a href="/list.aspx?area=10116" target="_blank" title="甘肃">甘肃</a>
+              <a href="/list.aspx?area=10117" target="_blank" title="宁夏">宁夏</a>
+              <a href="/list.aspx?area=10118" target="_blank" title="河南">河南</a>
+              <a href="/list.aspx?area=10119" target="_blank" title="江苏">江苏</a>
+              <a href="/list.aspx?area=10120" target="_blank" title="湖北">湖北</a>
+              <a href="/list.aspx?area=10121" target="_blank" title="浙江">浙江</a>
+              <a href="/list.aspx?area=10122" target="_blank" title="安徽">安徽</a>
+              <a href="/list.aspx?area=10123" target="_blank" title="福建">福建</a>
+              <a href="/list.aspx?area=10124" target="_blank" title="江西">江西</a>
+              <a href="/list.aspx?area=10125" target="_blank" title="湖南">湖南</a>
+              <a href="/list.aspx?area=10126" target="_blank" title="贵州">贵州</a>
+              <a href="/list.aspx?area=10127" target="_blank" title="四川">四川</a>
+              <a href="/list.aspx?area=10128" target="_blank" title="广东">广东</a>
+              <a href="/list.aspx?area=10129" target="_blank" title="云南">云南</a>
+              <a href="/list.aspx?area=10130" target="_blank" title="广西">广西</a>
+              <a href="/list.aspx?area=1013101" target="_blank" title="海南">海南</a>
+              <a href="/list.aspx?area=10132" target="_blank" title="香港">香港</a>
+              <a href="/list.aspx?area=10133" target="_blank" title="澳门">澳门</a>
+              <a href="/list.aspx?area=10134" target="_blank" title="台湾">台湾</a>
+              <a href="/list.aspx?area=hw"  target="_blank" title="海外">海外</a>
+            </div>
+        </div>         
+       
+    </div>
+  <div id="divback"></div>
+ <footer>
+<a href="http://www.chinaz.com/about/" target="_blank">关于我们</a> - <a href="http://www.chinaz.com/about/contact.asp" target="_blank">联系我们</a> - <a href="http://www.chinaz.com/about/a.asp" target="_blank">广告服务</a> - <a href="http://www.chinaz.com/about/link.asp" target="_blank">友情链接</a> - <a href="http://www.chinaz.com/about/sitemap.asp" target="_blank">网站地图</a> - <a href="http://www.chinaz.com/about/announce.asp" target="_blank">版权声明</a> - <a href="http://www.chinaz.com/about/job.asp" target="_blank">人才招聘</a> - <a href="http://www.chinaz.com/about/faq.asp" target="_blank">帮助</a> 
+<br /><br /><p>
+CopyRight &copy; 2002-2012, CHINAZ.COM, Inc. All Rights Reserved  &nbsp;&nbsp;联系电话:0592-2965139 <script src=" http://s73.cnzz.com/stat.php?id=244262&web_id=244262" language="JavaScript" charset="gb2312"></script>
+<div><span><a href="http://www.miibeian.gov.cn/" target="_blank">闽ICP备08105208号</a></span><span style=" margin-left:10px;">增值电信业务经营许可证闽B2-20120007号</span></div>
+</p>
+ </footer>
+ <img class="gotoTop" src='/img/gotop.gif' id='gotop' onclick='javascript:scroll(0,0);'  style=''/>
+
+
+
+  
+<script src="/js/Chinaz_Top_Application.js" type="text/javascript"></script>
+
+</body>
+</html>
+
+<script src="/skin/default/css/list/list.js" type="text/javascript"></script>
+<script type="text/javascript">
+    ShowAreaInIt();
+     showTitle();;
+    </script>
+
+
+     <!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=0&amp;uid=519770" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+   
+</script>
+<!-- Baidu Button END -->
+

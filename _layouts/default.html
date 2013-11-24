@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head><title>{{page.title}}</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="Keywords" content="{{page.keywords}}"/>
+    <meta name="Description" content="程序员的简便的网址大全,同时提供相关资讯信息."/>
+    <link href="/css/main.css" rel="stylesheet" type="text/css"/>
+    <link href="/css/default.css" rel="stylesheet" type="text/css"/>
+    <link href="/css/syntax.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+
+<div id="wrapper">
+
+    <div id="header"><a href="/#">
+        <img src="/img/logo.jpg" class="logo" alt="nicecoder.net" title="nicecoder.net"/> </a>
+
+        <div id="nav">
+            <ul>
+                <li><a href="/#" {% if page.url == "/index.html" %} class="selected" {% endif %} >首页</a></li>
+                <li><a href="/hotsite" {% if page.url == "/hotsite/index.html" %} class="selected" {% endif %} >热站</a></li>
+                <li><a href="/hotpost" {% if page.url == "/hotpost/index.html" %} class="selected" {% endif %} >热贴</a></li>
+                <li><a href="/about" {% if page.url == "/about/index.html" %} class="selected" {% endif %} >关于</a></li>
+            </ul>
+
+        </div>
+        <!-- END NAV -->
+    </div>
+    <!-- END HEADER -->
+    <div id="content">
+        <div id="col1">
+            {{content.suburl}}
+            {{content}}
+        </div>
+        <div id="col2">
+            <h1>推荐文章</h1>
+            <ul>
+            {% for post in site.categories.recommend_article %}
+            <li>
+            <a class="title" href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+            {% endfor %}
+            </ul>
+            <br/>
+            <h1>经典文章</h1>
+            <ul>
+                {% for post in site.categories.classic_article %}
+                <li>
+                    <a class="title" href="{{ post.url }}">{{ post.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+<!--END  WRAP -->
+<div id="footer">
+    <p>© 2013 Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>. Design by <a
+            href="http://www.spinz.se/om.htm">Igor Jovic </a></p>
+</div>
+<!-- END FOOTER -->
+</body>
+
+<script src="http://cdn.bootcss.com/jquery/2.0.3/jquery.js"></script>
+<script src="/js/unslider.js"></script>
+<script src="/js/default.js">
+</script>
+</html>

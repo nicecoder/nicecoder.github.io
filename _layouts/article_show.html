@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<h2>{{ page.title }}</h2>
+<p class="meta">收录于{{ page.date | date_to_string }},来自<a href="javascript:gosite('{{ page.gourl }}')">{{ page.gourl }}</a></p>
+
+<hr><br/>
+<div class="post">
+<b>简介:</b><br/>{{ page.preview }}
+<br>
+<br>
+<b>节选:</b><br>{{ page.content }}
+<br>
+<p class="smaller">
+支持作者,请<a href="javascript:gosite('{{page.gourl}}')">查看原文>></a>
+</div>
+
+<!-- UY BEGIN -->
+<div id="uyan_frame"></div>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=1863733"></script>
+<!-- UY END -->
+</p>

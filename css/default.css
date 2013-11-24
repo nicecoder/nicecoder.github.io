@@ -1,0 +1,29 @@
+.banner { position: relative; overflow: auto; }
+.banner li { list-style: none; }
+.banner ul li { float: left; }
+
+
+.sitescontainer{
+    padding-top: 15px;
+}
+
+.sitebox h2{
+    font-family: "微软雅黑",Arial, verdana, helvetica, sans-serif;
+    font-size:1.2em;
+    color: #6d6d6d;
+    font-weight:normal;
+    padding-bottom:10px;
+}
+
+.sitebox a{
+    font-size: 1.1em;
+    display: inline-block;
+    padding-right: 3px;
+}
+
+.post {
+    font-family: "微软雅黑",Arial, verdana, helvetica, sans-serif;
+    line-height: 22px;
+    letter-spacing: 0.1em;
+    font-size:0.9em;
+}

@@ -1,0 +1,19 @@
+---
+layout: article_show
+title: 2013年11月份数据库排名
+categories: infomation
+tags: 资讯,数据库,inslider
+preview: 喜闻乐见的"排名"系列.还好,争议没有tobie编程语言排行那么大...
+keywords: 数据库排名
+gourl: db-engines.com/en/ranking
+---
+1.	Oracle 	(Relational DBMS)	1617.19	,+33.35<br>
+2.	MySQL 	(Relational DBMS)	1254.27	,-77.07<br>
+3.	Microsoft SQL Server 	(Relational DBMS)	1234.46	,+27.45<br>
+4.	PostgreSQL 	(Relational DBMS)	190.83	,+13.82<br>
+5.	DB2 	(Relational DBMS)	165.90	,-9.93<br>
+6.	MongoDB 	(Document store)	161.87	,+12.40<br>
+7.	Microsoft Access 	(Relational DBMS)	141.60	,-0.89<br>
+8.	SQLite 	(Relational DBMS)	78.78	,+0.90<br>
+9.	Sybase 	(Relational DBMS)	77.75	,+4.09<br>
+10.	Teradata 	(Relational DBMS)	60.12	,+5.70<br>

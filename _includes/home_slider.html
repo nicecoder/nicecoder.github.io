@@ -1,0 +1,12 @@
+<div class="banner">
+    <ul>
+        {% for info in site.categories.infomation %}
+        <li>
+            <p class="quote">
+                <b>{{ info.title }}</b><br/>
+                {{ info.preview }}<br/><a href="{{ info.url }}">查看>></a>
+            </p>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

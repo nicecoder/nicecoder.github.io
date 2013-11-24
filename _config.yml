@@ -1,0 +1,6 @@
+name: daohang
+markdown: redcarpet
+pygments: true
+home_tag_nav: [综合社区,资讯,博客,教程,编程语言,前端,移动开发,linux,其他优秀网站]
+#paginate: 20
+#paginate_path: "hotsite/"

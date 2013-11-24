@@ -1,0 +1,23 @@
+---
+layout: default
+title: 码农导航，it网站导航
+keywords: it网址导航,码农导航,it网站导航,it网址大全,it网站大全,码农,程序员
+---
+
+
+{% include home_slider.html %}
+
+<div class="sitescontainer">
+    {% for tag_name in site.home_tag_nav%}
+    <div class="sitebox"><h2>{{tag_name}}</h2>
+        <p>
+            {% for website in site.data.websites %}
+                {% if website.tags contains tag_name %}
+                    <a href="javascript:gosite('{{website.url}}')" title="{{website.desc}}">{{website.name}}&nbsp;</a>
+                {% endif %}
+            {% endfor %}
+        </p>
+    </div>
+    {% endfor %}
+    <h3><a href="/hotsite">更多网站>><a></h3>
+</div>

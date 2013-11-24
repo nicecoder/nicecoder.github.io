@@ -1,0 +1,18 @@
+---
+layout: default
+title: 热贴
+keywords: 网站推荐,文章推荐
+---
+
+
+<div id="home">
+    <h1>最新热贴</h1>
+    <p>
+        {% for post in site.posts %}
+        <a href="javascript:gosite('{{ post.gourl }}')"><b>{{ post.title }}</b></a><br/>
+        {{ post.preview}}
+        <br/>
+        <a href="{{ post.url }}">吐槽>></a><br/><br/>
+        {% endfor %}
+    </p>
+</div>
